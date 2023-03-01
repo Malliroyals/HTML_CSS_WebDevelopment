@@ -1,0 +1,10 @@
+/* class selectors */
+.green
+{
+    color: green;
+}
+.red
+{
+    color: red;
+    background: gray;
+}

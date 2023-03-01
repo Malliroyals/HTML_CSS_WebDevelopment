@@ -1,0 +1,27 @@
+/* em - relative,depends on parent */
+/* lem - 16px defualt browser style */
+/* 1em = base value (16px) * number 1 = 16px  */
+/* 2em = base value (16px) * number 2 = 16px  */
+/* 2em = base value (10px) * number 2 = 16px  */
+
+div
+{
+   font-size: 16px;
+}
+.absolute
+{
+    font-size: 32px;
+}
+.relative
+{
+    /* 20px */
+    font-size: 2em;
+}
+.default
+{
+    font: size 32px;
+}
+.nounits
+{
+    font-size: 50;
+}

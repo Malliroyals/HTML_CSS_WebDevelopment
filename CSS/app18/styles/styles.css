@@ -1,0 +1,39 @@
+/* HSL (Hue, Saturation Lightness)
+value for advanced users
+Hue - degree on color wheel 0 to 360(0-red)
+Saturation - % value % shade of gray,100%full color
+Lightness - % value 0% is back 50% is neither light or drak,100% is white
+/* HSL value for advanced users
+ HEX value #RRGGBB
+/* 123456789 A   B   C   D E   F
+             10  11  13  14     15
+             #FF0000  -  red
+             #00FF00  -  Green
+
+             */
+
+#first
+{
+    color: #ff0000;
+    background:#000;
+}
+#second
+{
+    color: #0000ff;
+    background: #00ff00;
+}
+#three
+{
+    color: #0000ff;
+    background: #f15025;
+}
+#four
+{
+    color: #f234ad;
+    background: ;
+}
+#five
+{
+     color: black;
+     background: #00ff00;
+}

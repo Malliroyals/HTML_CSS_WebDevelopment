@@ -1,0 +1,22 @@
+h1,p
+{
+    color: white;
+}
+h1
+{
+    background: red;
+    padding: 20px;
+    border: 0.7rem dotted goldenrod;
+    margin: 3rem;
+}
+p
+{
+    background: green;
+    padding: 20px;
+    border: 0.7rem dotted goldenrod;
+    margin: 3rem;
+}
+*
+{
+    margin: 0px;
+}

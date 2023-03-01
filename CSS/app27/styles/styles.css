@@ -1,0 +1,23 @@
+/* CSS box model */
+h1,p
+{
+    color: white;
+}
+h1
+{
+    background: red;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+p
+{
+    background: blue;
+    /* all around */
+   /* padding: 40px; */
+   /* top,bouttom */
+  /* padding: 30px 80px; */
+  /* top,right,bouttum,left */
+  padding: 50px 20px 50px 40px;
+}
